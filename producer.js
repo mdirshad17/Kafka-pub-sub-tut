@@ -1,4 +1,3 @@
-const { read } = require("fs");
 const { kafka } = require("./client");
 const readline = require('readline');
 
